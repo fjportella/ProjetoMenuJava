@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author CGC
+ * @author Fernando Portella
  */
 public class ProjetoMenu {
 
