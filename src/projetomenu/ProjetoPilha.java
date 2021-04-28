@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Fernando
+ * @author Fernando Portella
  */
 public class ProjetoPilha {
 
